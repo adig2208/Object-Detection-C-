@@ -1,9 +1,5 @@
 # 2D Object Recognition System
 
-# Team Members
-
-Mihir Chitre, Aditya Gurnani
-
 ## Project Description
 
 This 2D Object Recognition project, authored by Mihir Chitre and Aditya Gurnani, is a comprehensive system that aims to identify and classify objects based on their shape, regardless of size, orientation, or position. Utilizing a top-down camera setup, this project achieves translation, scale, and rotation invariance in object recognition, allowing for real-time tracking and identification in a video stream or static images.
