@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This 2D Object Recognition project, authored by Mihir Chitre and Aditya Gurnani, is a comprehensive system that aims to identify and classify objects based on their shape, regardless of size, orientation, or position. Utilizing a top-down camera setup, this project achieves translation, scale, and rotation invariance in object recognition, allowing for real-time tracking and identification in a video stream or static images.
+This 2D Object Recognition project is a comprehensive system that aims to identify and classify objects based on their shape, regardless of size, orientation, or position. Utilizing a top-down camera setup, this project achieves translation, scale, and rotation invariance in object recognition, allowing for real-time tracking and identification in a video stream or static images.
 
 The system is built on several key tasks such as thresholding, morphological filtering, and segmentation to process and identify regions within images. After segmenting, it computes feature vectors for the central regions and compares them with a database of vectors, labeling each object by its closest match. It demonstrates real-time capabilities and uses confusion matrices for performance evaluation. The project also explores K-Nearest Neighbor and deep learning embeddings to further enhance accuracy and robustness.
 
